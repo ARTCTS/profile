@@ -78,7 +78,7 @@ padding-left: 0px;
 }
 
 a:hover {
-  color: yellow;
+  color: magenta;
 }
 
 @media (max-width: 960px) {
